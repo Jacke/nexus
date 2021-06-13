@@ -4,6 +4,10 @@
 
 |                |ASCII                          |HTML                         |
 |----------------|-------------------------------|-----------------------------|
+|Brain Activity  |![brain_activity.gif](/gifs/brain_activity.gif)    |'Neurons fired up'  |
+|Brain 84        |![synthwave_brain.gif](/gifs/synthwave_brain.gif)    |'Isn't this fun?' |
+|Third eye       |![third_eye.mp4](/mp4/third_eye.mp4)    |'Isn't this fun?'              |
+|Brain Wave       |![Brain-Waves_Infographic.jpg](/pics/Brain-Waves_Infographic.jpg)    |'Isn't this fun?'              |
 |Wave            |![3nJe.gif](/gifs/3nJe.gif)    |'Isn't this fun?'            |
 |Optics          |![7ZAx.gif](/gifs/7ZAx.gif)    |"Isn't this fun?"            |
 |Optics          |![7ZAx.gif](/gifs/0YXX4UJ.gif) |"Isn't this fun?"            |
